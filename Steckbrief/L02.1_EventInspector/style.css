@@ -1,0 +1,37 @@
+body {
+  background-color: lightgray;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+}
+
+#container {
+  margin: auto;
+  display: flex;
+}
+
+#div0 {
+  width: 450px;
+  height: 450px;
+  background-color: lightsalmon;
+  margin: auto;
+  border-style: dotted;
+}
+
+#div1 {
+  width: 450px;
+  height: 450px;
+  background-color: lightgreen;
+  margin: auto;
+  border-style: dotted;
+}
+
+span {
+  width: 170px;
+  height: 80px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  margin: auto;
+}
