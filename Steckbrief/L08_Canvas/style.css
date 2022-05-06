@@ -1,0 +1,16 @@
+body {
+    background-color: lightcyan;
+    font-family: monospace;
+}
+
+h1 {
+    margin: center;
+    margin-left: 520px;
+    margin-top: 25px;
+}
+
+canvas {
+    background-color: beige;
+    margin-left: 180px;
+    margin-top: 60px;
+}
