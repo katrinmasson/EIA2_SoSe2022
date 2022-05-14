@@ -1,0 +1,15 @@
+body {
+    background-color: lightcyan;
+    font-family: monospace;
+}
+
+h1 {
+    margin: center;
+    margin-left: 650px;
+    margin-top: 25px;
+}
+
+canvas {
+    margin-left: 240px;
+    margin-top: 40px;
+}
